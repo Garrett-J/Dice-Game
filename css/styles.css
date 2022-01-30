@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(211, 222, 220);
+    color: rgb(51, 123, 172);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 0.9rem;
+}
+.btn {
+    margin: 2rem auto;
+    display: block;
+    color: rgb(0, 0, 0);
+    background-color: rgb(154, 184, 178);
+    border: none;
+    
+}
+.btn:hover {
+    background-color: rgb(51, 123, 172) ;
+}
+.footer {
+    display: block;
+    margin: auto 0;
+    text-align: center;
+}
+
+.row {
+    text-align: center;
+}
