@@ -4,6 +4,10 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h3 {
+    font-weight: bold;
+    font-size: 3rem;
+}
 #title {
     text-align: center;
     font-size: 0.9rem;
@@ -17,7 +21,8 @@ body {
     
 }
 .btn:hover {
-    background-color: rgb(51, 123, 172) ;
+    background-color: rgb(51, 123, 172);
+    border: none;
 }
 .footer {
     display: block;
